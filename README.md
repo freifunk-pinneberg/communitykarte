@@ -1,4 +1,6 @@
 # communitykarte
 Vektorisierte Karte aller nordwestlichen Freifunk-Communities
 
-Readme goes here
+-Erstellt mit Adobe Illustrator
+-Texte in Kurven konvertiert
+-SVG-Ausgabe über das Export-Feature
