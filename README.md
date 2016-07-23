@@ -3,4 +3,6 @@ Vektorisierte Karte aller nordwestlichen Freifunk-Communities
 
 -Erstellt mit Adobe Illustrator
 -Texte in Kurven konvertiert
--SVG-Ausgabe über das Export-Feature
+-SVG-Ausgabe Ã¼ber das Export-Feature
+
+Lizenz: CC BY-SA
